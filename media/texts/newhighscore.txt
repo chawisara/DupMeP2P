@@ -1,0 +1,10 @@
+poonMaster,200000
+poon,200
+nan,50
+belle,47
+poon,46
+I,9
+H,8
+G,7
+F,6
+E,5
